@@ -1,0 +1,5 @@
+URL untuk dataset:
+https://www.kaggle.com/datasets/thomasdubail/chest-pneumonia-256x256
+
+URL untuk deployment:
+https://huggingface.co/spaces/michaeln20/PneumoniaAnalyzer
