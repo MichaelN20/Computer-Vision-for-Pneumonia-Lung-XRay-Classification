@@ -1,5 +1,9 @@
 # **Computer Vision for Pneumonia Lung X-Ray Classification**
 
+### **Deployment URL:**
+
+[HuggingFace](https://huggingface.co/spaces/michaeln20/PneumoniaAnalyzer)
+
 ### **Dataset Information:**
 
 This dataset consists of chest X-ray images of children collected at the Guangzhou Women and Children's Medical Center, Guangzhou, China. The dataset includes a total of 5,863 X-ray images in JPEG format, categorized into two classes: Pneumonia and Normal. These images have been used to develop an artificial intelligence system for chest X-ray analysis.
